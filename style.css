@@ -12,7 +12,7 @@ body {
 
 .card {
   width: 470px;
-  height: 650px;
+  height: 770px;
   perspective: 1000px;
   cursor: pointer;
   position: relative;

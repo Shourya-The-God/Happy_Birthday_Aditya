@@ -11,8 +11,8 @@ body {
 }
 
 .card {
-  width: 470px;
-  height: 970px;
+  width: 570px;
+  height: 1070px;
   perspective: 1000px;
   cursor: pointer;
   position: relative;
